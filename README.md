@@ -1,4 +1,4 @@
-# Advanced Lane Finding
+# Lane Segmentation and Steering Angle Estimation
 ## Overview
 ![image](https://github.com/adamalavi/Self_driving_cars_Udacity-ND/blob/master/P2%20-%20Advanced%20lane%20finding/project-output.gif)
 
